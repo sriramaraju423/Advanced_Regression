@@ -1,0 +1,12 @@
+We can reclassify our data if required to convert it into binary class classification.
+In advanced regression, intercept value will take care of nth factor. As we have to take care of only n-1. Analogy: Asking a student question on which house does he belong?
+Advanced regression -> Count driven models
+
+
+
+TODO:
+Chi-Squared test
+
+
+Queries:
+There is one more model called Hurdle model sir, what's difference between this hurdle and zero inflated model
